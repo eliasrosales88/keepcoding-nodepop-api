@@ -2,7 +2,7 @@
 
 La práctica desplegada se puede encontrar en el siguiente enlace: http://ec2-18-222-178-15.us-east-2.compute.amazonaws.com/
 
-Para acceder a la web estática IP: **18.222.178.15**
+Para acceder a la web estática IP: http://18.222.178.15/
 
 # Practica del módulo de backend node.js de KeepCoding
 
