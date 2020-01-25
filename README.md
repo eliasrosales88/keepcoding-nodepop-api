@@ -1,8 +1,8 @@
-# UPDATE Módulo devops -- 20.01.2020
+# UPDATE Módulo devops -- 25.01.2020
 
-La práctica desplegada se puede encontrar en el siguiente enlace: PENDIENTE
+La práctica desplegada se puede encontrar en el siguiente enlace: http://ec2-18-222-178-15.us-east-2.compute.amazonaws.com/
 
-Para acceder a la web estática del primer módulo de fundamentos web se debe acceder por IP: PENDIENTE
+Para acceder a la web estática IP: **18.222.178.15**
 
 # Practica del módulo de backend node.js de KeepCoding
 
